@@ -10,16 +10,19 @@ Here are some screenshots of the application's user interface:
 
 Here is the login and registration pages.
 
-![Login](https://drive.google.com/file/d/1d696O4G0Wav0Cm5rM3hRQuijliKsWmpF/view?usp=sharing)
-![Image Alt](https://github.com/thevickykumar/Role_Based_Authentication/blob/63144cf7a1a39c225f79db2812e90f2798b49ab2/Screenshot%202024-11-25%20193056.png)
+![Login][(https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20200406.png)
+![Register](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20200236.png)
 
 ### Dashboard and Project Creation
-
 Here you can see the dashboard with filters and the modal for creating a new project.
 
+![Dashboard with Filters](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20203546.png)
+![Create New Project Modal](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201616.png)
 ### Upgrades and Payments
 
 Here is the pricing page and the payment gateway integration.
+![Pricing Page](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201435.png)
+![Payment Gateway](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201811.png)
 
 ## Key Features
 
