@@ -10,6 +10,9 @@ Here are some screenshots of the application's user interface:
 
 Here is the login and registration pages.
 
+![Login Page]([http://googleusercontent.com/file_content/3](https://drive.google.com/file/d/1d696O4G0Wav0Cm5rM3hRQuijliKsWmpF/view?usp=sharing))
+![Registration Page]([http://googleusercontent.com/file_content/2](https://drive.google.com/file/d/1_l2iCu8bMimpCAL_wkLmLDb7ggS-oyS-/view?usp=sharing))
+
 ### Dashboard and Project Creation
 
 Here you can see the dashboard with filters and the modal for creating a new project.
