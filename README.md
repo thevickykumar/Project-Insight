@@ -10,7 +10,7 @@ Here are some screenshots of the application's user interface:
 
 Here is the login and registration pages.
 
-![Image Alt](https://github.com/thevickykumar/Role_Based_Authentication/blob/63144cf7a1a39c225f79db2812e90f2798b49ab2/Screenshot%202024-11-26%20120838.png)
+![Login](https://drive.google.com/file/d/1d696O4G0Wav0Cm5rM3hRQuijliKsWmpF/view?usp=sharing)
 ![Image Alt](https://github.com/thevickykumar/Role_Based_Authentication/blob/63144cf7a1a39c225f79db2812e90f2798b49ab2/Screenshot%202024-11-25%20193056.png)
 
 ### Dashboard and Project Creation
