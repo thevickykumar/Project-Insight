@@ -2,28 +2,6 @@
 
 A full-stack project management system to help you and your team manage tasks and projects efficiently. This application is built with a modern technology stack for a robust and scalable solution.
 
-## Screenshots
-
-Here are some screenshots of the application's user interface:
-
-### Authentication Pages
-
-Here is the login and registration pages.
-
-![Login][(https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20200406.png)
-![Register](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20200236.png)
-
-### Dashboard and Project Creation
-Here you can see the dashboard with filters and the modal for creating a new project.
-
-![Dashboard with Filters](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20203546.png)
-![Create New Project Modal](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201616.png)
-### Upgrades and Payments
-
-Here is the pricing page and the payment gateway integration.
-![Pricing Page](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201435.png)
-![Payment Gateway](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201811.png)
-
 ## Key Features
 
 * **User Authentication**: Secure user registration and login using JWT.
@@ -133,4 +111,26 @@ git clone [https://github.com/thevickykumar/Project-Insight.git](https://github.
 
 Once both the backend and frontend are running, open your web browser and go to `http://localhost:5173` to see the application in action. 
 
+
+## Screenshots
+
+Here are some screenshots of the application's user interface:
+
+### Authentication Pages
+
+Here is the login and registration pages.
+
+![Login](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20200406.png)
+![Register](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20200236.png)
+
+### Dashboard and Project Creation
+Here you can see the dashboard with filters and the modal for creating a new project.
+
+![Dashboard with Filters](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20203546.png)
+![Create New Project Modal](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201616.png)
+### Upgrades and Payments
+
+Here is the pricing page and the payment gateway integration.
+![Pricing Page](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201435.png)
+![Payment Gateway](https://github.com/thevickykumar/Project-Insight/blob/b97978ed3b4f92636480d6cc4d0127126ff9ce28/Screenshot%202025-08-06%20201811.png)
 
